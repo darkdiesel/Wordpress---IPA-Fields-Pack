@@ -10,7 +10,7 @@
  * Domain Path: /languages/
  * License: GPL2
  */
-/*  Copyright 2015  PLUGIN_AUTHOR_NAME  (email : igor.peshkov@gmail.com)
+/*  Copyright 2015  Igor Peshkov  (email : igor.peshkov@gmail.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as

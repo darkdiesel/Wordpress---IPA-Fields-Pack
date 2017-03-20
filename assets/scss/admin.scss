@@ -1,0 +1,40 @@
+.wrap-header{
+  margin-bottom: 25px;
+}
+
+.ipa-postbox{
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  min-width: 255px;
+  margin: 15px 0;
+  clear: both;
+
+  .ipa-inside{
+    margin: 11px 0;
+    position: relative;
+    font-size: 13px;
+    line-height: 1.4em;
+    padding: 0 12px 12px;
+  }
+
+  .ipa-hndle{
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 0;
+    padding: 8px 12px;
+    -moz-user-select: none;
+    border-bottom: 1px solid #eee;
+  }
+}
+
+.pagination{
+  li{
+    display: inline-block;
+  }
+}
+
+.ajax-process{
+  display: none;
+  padding:2px;
+}
